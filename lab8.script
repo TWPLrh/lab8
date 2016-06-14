@@ -1,0 +1,17 @@
+Script started on 2016年06月14日 星期二 17:01:39
+]0;zrh@ubuntu: ~/Homework/lab8[01;32mzrh@ubuntu[00m:[01;34m~/Homework/lab8[00m$ lab8.lab8/lab8
+new I_Block[0]
+new I_Block[1]
+new I_Block[2]
+new I_Block[3]
+new I_Block[4]
+delete I_Block[0]
+delete I_Block[1]
+delete I_Block[2]
+delete I_Block[3]
+delete I_Block[4]
+delete I_Block[5]
+Segmentation fault (core dumped)
+]0;zrh@ubuntu: ~/Homework/lab8[01;32mzrh@ubuntu[00m:[01;34m~/Homework/lab8[00m$ exit
+
+Script done on 2016年06月14日 星期二 17:02:36
